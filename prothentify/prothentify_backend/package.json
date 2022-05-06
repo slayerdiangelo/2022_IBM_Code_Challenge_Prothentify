@@ -1,0 +1,31 @@
+{
+  "name": "prothentify-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "child-process-async": "^1.0.1",
+    "cids": "^1.1.9",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "firebase": "^9.7.0",
+    "firebase-admin": "^10.1.0",
+    "ipfs-http-client": "^56.0.3",
+    "jimp": "^0.16.1",
+    "node-base64-image": "^2.0.4",
+    "qr-decode": "^0.0.3",
+    "qrcode": "^1.5.0",
+    "qrcode-decoder": "^0.2.2",
+    "qrcode-parser": "^2.0.0",
+    "qrcode-reader": "^1.0.4",
+    "urlencode": "^1.1.0",
+    "uuid": "^8.3.2"
+  }
+}

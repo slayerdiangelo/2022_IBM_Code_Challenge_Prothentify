@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "ibm-prothentify",
+    "private_key_id": "51038ebbafc3e5d7acafb4ce035db6a12751ff37",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4xLHxbeMXnHwH\np6UVok0/dcWiDbRee8J6eTquKlYsu3LpPdfQkb7JiEFwDGw9iFl1Mq6bINtHuzhB\nii/1KyK080pwG0sDsypnHsp/Cw5UqE4io9Acd/2x4pRJekvclTv14Q2VL4jfTmNq\naXENhQmALPl8OdcXRQSjLfPxAhmJzQuiTMAEjirxQHT+keyt3TavX/C73jDTtzrS\nQjPypY42UbvmxDSqYQ/92qfl/M4kWn/Zzj1Lt8XZZFzJ9NGhwOM8gAs/8wzRPsHB\nGjnDVOTVveMJQxINxJ30zdUOW0a3lEoE1MBf4a/DNKPsOdaC4wE0dYnyWDOKzyZv\n4l54/ZhtAgMBAAECggEAGUV/8B1fSu6ykSp3HCklhylA1Ywp0CV9wVoc8k7kl/ww\neKHmh4azsWVjS+PLFzRzxeGfe6TIETzUcjRoIFCcz+KZ2xEEltY11cJioHM+68nU\nXA0LTSWFS8QJk644O4ym1ZfJT48fmaljVB3lYlvAo6kjG4BewLZGLtp9a8ilfREU\nVM74J+vLABv1GzMgzBO87zC6lneaNE/CPvkEySnRa9wGvkdzKysfkdkqAwTlTQw7\nK3+OLfEU5JLn8ehMfjmhS+5Re0L5HhDDTEijZ1iXosR2+a0zXSfJ2Cr5BGrrn51s\nIrrq15PH30LlJH6GFk15FR+4s1hKC9iCR+w8P252IQKBgQD2APFM12JeUHDidlIo\nLNRMNMQtZHj4j1+u1vHMD4oIh+35pJ4Rp5ZncE/KSY0DIeEnKlZgHfG4JYQl6Myd\nYOUwcBUmvNCYVYBiMQEEZwEC3uk5ApBhiZjvl43C22IQVaXAA90j7tByI9Bb59gc\nzqVQ5nZvRyEF6hXcArkDtFc0oQKBgQDARsA3RNkt03SC8P+hV2pf9AgS9ajQryfN\nBPAuejZ1YDWpMFCxHpYAkR63BaGKpwo48TEAunFqRD/uULI99oAFmt7nWgRzGN30\n8vOnjmDVvNLUVT7t/qLuY4KRCO23UDPClTfL5LVS0AOEdZKNej/OLNSMZdvw4pZm\n1oCxE8hETQKBgDqRgOGNifLwbd/M0cSU37qA+Y/hEtgCsoIa1JiDvpZHXoYIBkYn\nwyw/Vg/QMQ1k3IkJkGTz3B++dtbbtRNnBUnh9XcyjusluBoolphouZnoXlhfXuaJ\n7upkB7EzsAY5jevIP7cVXXU/R5UJ/q7lGADJzbqykY8p6yhlUY0rO3PhAoGAJAcd\nzT1hVGzi0AZIX/r5O7GGMcdGMpQfaRMbzhmoSqYUZ/ddp1KL2N9YWgL8Gfbiu3i2\nLeTBi5/uOsF0JJgjtOkoC0Gaw9ZNALDlZugOzP3so0y11fJ4pSKQPIznvgmRKUy8\nf8ADGdlQT2mYZFobyo4r5YLQi3pppCtdQdDrHaECgYEAlrAOEuSBG18SBxD6hneI\nbZ4EuA5yTteO3VNxBYEReoyyls5kvD8ccJtBnYgL49DX730aNuxYBTj+8BjPUPIR\nIM3a2r53HWDYa6Qq3mPKYTeFDEqksVeWcUQTWBY69j9V0TUYcAPd34HpQvbKesAD\nPRQ9t7zEcoPbq3xJKYMNY4I=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-m6seb@ibm-prothentify.iam.gserviceaccount.com",
+    "client_id": "117231321114286755819",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-m6seb%40ibm-prothentify.iam.gserviceaccount.com"
+  }
+  

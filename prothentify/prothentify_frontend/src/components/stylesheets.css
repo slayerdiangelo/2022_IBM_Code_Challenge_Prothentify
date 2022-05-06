@@ -1,0 +1,19 @@
+.card {
+    margin-top: 50px;
+}
+
+.card-content {
+    margin: 10px;
+}
+
+.form-content {
+    margin: 10px;
+}
+
+.jumbo{
+    background: url('../../public/images/cover.jpg');
+    position: relative;
+    background-size: cover; 
+    background-position: center center;
+    background-repeat: no-repeat;
+}
