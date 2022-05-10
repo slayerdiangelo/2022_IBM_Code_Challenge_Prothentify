@@ -21,6 +21,6 @@ We are proposing a system to determine the authenticity of a delivered product.
 
 ## Architecture
 
-![arch]\(https://imgur.com/a/m0oq7Oh) 
+![arch]\(https://imgur.com/a/m0oq7Oh?raw=true "System Architecture") 
 
 ## License
