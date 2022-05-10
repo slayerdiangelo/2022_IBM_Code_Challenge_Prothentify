@@ -19,10 +19,8 @@ Nowadays we are depending more and more on e-commercial websites and trusting wh
 We are proposing a system to determine the authenticity of a delivered product. 
 
 
-## Personas of the System
-
-
 ## Architecture
 
+![arch]\(https://imgur.com/a/m0oq7Oh) 
 
 ## License
