@@ -19,6 +19,6 @@ Nowadays we are depending more and more on e-commercial websites and trusting wh
 We are proposing a system to determine the authenticity of a delivered product. 
 
 
-## Architecture
+## System Architecture
 
 ![arch](https://user-images.githubusercontent.com/29629154/167630157-ad056b56-0c28-4b36-af18-35e792b4332f.png)
